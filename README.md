@@ -27,7 +27,7 @@ I'm currently doing a full-time training as a **Data Analyst & Python Developer*
 **Certified:**
 ![PCAP](https://img.shields.io/badge/PCAP-Certified-brightgreen?style=for-the-badge&logo=python&logoColor=white)
 ![KI-Transformation](https://img.shields.io/badge/IHK-KI--Transformation-blue?style=for-the-badge&logo=openai&logoColor=white)
-![Social Media](https://img.shields.io/badge/IHK-Social%20Media%20%26%20Content-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)
+![Social Media](https://img.shields.io/badge/SMA-Social%20Media%20%26%20Content-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)
 
 Libraries I've worked with: `matplotlib` · `faker` · `random` · and counting...
 
