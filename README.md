@@ -10,8 +10,8 @@ I'm currently doing a full-time training as a **Data Analyst & Python Developer*
 
 - 📊 **Full-time training** in Data Analysis & Python Development
 - 🐘 Setting up a **PostgreSQL server** for my own data project *(coming soon to GitHub!)*
-- 🤖 Building a **Coursera tracker web app** — because if you have too many courses, clearly the solution is to build another project
-  - Next step: adding an **AI agent** that writes learning plans and keeps me motivated *(first draft is live!)*
+- 🤖 Building a **Coursera tracker web app** — because if you have too many courses, clearly the solution is to build another project *(first draft is live!)*
+  - Next step: adding an **AI agent** that writes learning plans and keeps me motivated 
 - 🧪 Vibe-coding my way through projects and *then* asking Claude to explain what happened
 
 ---
