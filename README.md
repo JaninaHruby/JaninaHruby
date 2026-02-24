@@ -1,5 +1,5 @@
 # Hi, I'm Janina 👋✨
-
+<img align="right" width="150" style="border-radius:50%" src="https://github.com/JaninaHruby.png" />
 > *Data Analyst in progress · Python Enthusiast · Chaotic Good Learner*
 
 I'm currently doing a full-time training as a **Data Analyst & Python Developer** — and yes, I am somehow enrolled in 6+ Coursera courses at the same time. No regrets. (Okay, maybe a little.) I have a passion for finding unconventional solutions to everyday problems, and an unhealthy love for learning everything at once.
@@ -69,23 +69,15 @@ janina = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaninaHruby&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaninaHruby&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 📬 Let's connect!
 
 If you're also drowning in learning projects, love anime, or just want to talk about unconventional solutions — let's chat!
 
-<!-- Add your links here, e.g.: -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE) -->
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janina-hruby)
+
+Einfach `DEIN-PROFIL-NAME` durch den Teil deiner LinkedIn-URL ersetzen — also alles nach `linkedin.com/in/`. 😊
 ---
 
 <p align="center">
