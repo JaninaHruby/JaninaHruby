@@ -1,5 +1,5 @@
 # Hi, I'm Janina 👋✨
-<img align="right" width="150" style="border-radius:50%" src="https://github.com/JaninaHruby.png" />
+
 > *Data Analyst in progress · Python Enthusiast · Chaotic Good Learner*
 
 I'm currently doing a full-time training as a **Data Analyst & Python Developer** — and yes, I am somehow enrolled in 6+ Coursera courses at the same time. No regrets. (Okay, maybe a little.) I have a passion for finding unconventional solutions to everyday problems, and an unhealthy love for learning everything at once.
