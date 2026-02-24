@@ -1,6 +1,6 @@
 # Hi, I'm Janina 👋✨
 
-> *Datenanalystin in progress · Python-Enthusiastin · Chaotic Good Learner*
+> *Data Analyst in progress · Python Enthusiast · Chaotic Good Learner*
 
 I'm currently doing a full-time training as a **Data Analyst & Python Developer** — and yes, I am somehow enrolled in 6+ Coursera courses at the same time. No regrets. (Okay, maybe a little.) I have a passion for finding unconventional solutions to everyday problems, and an unhealthy love for learning everything at once.
 
@@ -11,7 +11,7 @@ I'm currently doing a full-time training as a **Data Analyst & Python Developer*
 - 📊 **Full-time training** in Data Analysis & Python Development
 - 🐘 Setting up a **PostgreSQL server** for my own data project *(coming soon to GitHub!)*
 - 🤖 Building a **Coursera tracker web app** — because if you have too many courses, clearly the solution is to build another project
-  - Next step: adding an **AI agent** that writes learning plans and keeps me motivated *(erster Entwurf ist online!)*
+  - Next step: adding an **AI agent** that writes learning plans and keeps me motivated *(first draft is live!)*
 - 🧪 Vibe-coding my way through projects and *then* asking Claude to explain what happened
 
 ---
@@ -59,11 +59,11 @@ janina = {
     "personality":   "ENFP — yes, all the enthusiasm, all the time",
     "currently":     "Deciding between Data Analysis and Python Dev... why not both?",
     "superpower":    "Finding chaotic-but-genius solutions to boring problems",
-    "anime":         "Digimon rockt! 🦕 (fight me)",
-    "hobbies":       ["Zocken 🎮", "Singen 🎤", "Anime schauen 📺"],
-    "life_motto":    "Leb deinen Traum — even if your dream has 6 Coursera tabs open",
-    "learning_style":"Vibe first, understand later (it works, trust me)",
-    "secret_weapon":  "Certified Achtsamkeits- & Entspannungstrainerin 🧘‍♀️ — yes, I can fix both your code AND your stress levels"
+    "anime":         "Digimon is the best! 🦕 (fight me)",
+    "hobbies":       ["Gaming 🎮", "Singing 🎤", "Watching Anime 📺"],
+    "life_motto":    "Live your dream — even if your dream has 6 Coursera tabs open",
+    "learning_style":"learning_style": "Collects knowledge like Pokémon — catch 'em all first, then breed the perfect Shiny with max IVs",
+    "secret_weapon": "Certified Mindfulness & Relaxation Trainer 🧘‍♀️ — I can fix both your code AND your stress levels"
 }
 ```
 
@@ -89,5 +89,5 @@ If you're also drowning in learning projects, love anime, or just want to talk a
 ---
 
 <p align="center">
-  <i>„Es geht nicht darum, der Beste zu sein — es geht darum, besser zu werden als gestern." 🌱</i>
+  <i>"It's not about being the best — it's about being better than yesterday." 🌱</i>
 </p>
