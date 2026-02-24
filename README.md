@@ -77,9 +77,9 @@ If you're also drowning in learning projects, love anime, or just want to talk a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janina-hruby)
 
-Einfach `DEIN-PROFIL-NAME` durch den Teil deiner LinkedIn-URL ersetzen — also alles nach `linkedin.com/in/`. 😊
 ---
 
 <p align="center">
-  <i>"It's not about being the best — it's about being better than yesterday." 🌱</i>
+  <i>"Today is where your book begins — the rest is still unwritten." 🌱</i><br/>
+  <sub>— Natasha Bedingfield, Unwritten</sub>
 </p>
