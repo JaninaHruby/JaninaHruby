@@ -62,7 +62,7 @@ janina = {
     "anime":         "Digimon is the best! 🦕 (fight me)",
     "hobbies":       ["Gaming 🎮", "Singing 🎤", "Watching Anime 📺"],
     "life_motto":    "Live your dream — even if your dream has 6 Coursera tabs open",
-    "learning_style":"learning_style": "Collects knowledge like Pokémon — catch 'em all first, then breed the perfect Shiny with max IVs",
+    "learning_style":"Collects knowledge like Pokémon — catch 'em all first, then breed the perfect Shiny with max IVs",
     "secret_weapon": "Certified Mindfulness & Relaxation Trainer 🧘‍♀️ — I can fix both your code AND your stress levels"
 }
 ```
