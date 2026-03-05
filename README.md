@@ -8,11 +8,10 @@ I'm currently doing a full-time training as a **Data Analyst & Python Developer*
 
 ## 🚀 What I'm up to
 
-- 📊 **Full-time training** in Data Analysis & Python Development
-- 🐘 Setting up a **PostgreSQL server** for my own data project *(coming soon to GitHub!)*
-- 🤖 Building a **Coursera tracker web app** — because if you have too many courses, clearly the solution is to build another project *(first draft is live!)*
-  - Next step: adding an **AI agent** that writes learning plans and keeps me motivated 
-- 🧪 Vibe-coding my way through some projects and *then* asking Claude to explain what happened for deeper understanding
+📊 Full-time training in Data Analysis & Python Development
+🔥 Just finished my Matchstick Nim Game — a full Tkinter GUI game with computer opponent. What started as a math challenge turned into a deep dive into Python GUI development. (Check out the repo!)
+📁 Working on my first real data project — coming to GitHub very soon!
+🤖 Built a Coursera tracker web app — because when you have too many courses, the only logical solution is to build yet another project. Full disclosure: This was an experiment to see how fast and how well AI can build something. There are definitely some logical issues, but honestly? It was a blast. (First draft is live!)
 
 ---
 
