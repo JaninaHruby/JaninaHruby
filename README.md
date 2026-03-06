@@ -2,33 +2,29 @@
 
 > *Data Analyst in progress · Python Enthusiast · Chaotic Good Learner*
 
-I'm currently doing a full-time training as a **Data Analyst & Python Developer** — and yes, I am somehow enrolled in 6+ Coursera courses at the same time. No regrets. (Okay, maybe a little.) I have a passion for finding unconventional solutions to everyday problems, and an unhealthy love for learning everything at once.
+I'm currently doing a full-time training as a **Data Analyst & Python Developer** and yes, I am somehow enrolled in 6+ Coursera courses at the same time. No regrets. (Okay, maybe a little.) I have a passion for finding unconventional solutions to everyday problems, and an unhealthy love for learning everything at once.
+
+🎯 **Currently looking for a Praxispartner (company partner) for a dual study program (Informatik / Applied AI / Data Science).** Know someone? [Let's connect!](https://linkedin.com/in/janina-hruby)
 
 ---
 
 ## 🚀 What I'm up to
 
-📊 Full-time training in Data Analysis & Python Development<br>
-🔥 Just finished my Matchstick Nim Gamea a full Tkinter GUI game with computer opponent. What started as a math challenge turned into a deep dive into Python GUI development. (Check out the repo!)<br>
-📁 Working on my first real data project — Online!<br>
-🤖 Built a Coursera tracker web app, because when you have too many courses, the only logical solution is to build yet another project. Full disclosure: This was an experiment to see how fast and how well AI can build something. There are definitely some logical issues, but honestly? It was a blast. (First draft is live!)
+📊 Full-time training in Data Analysis & Python Development
+🔬 Deep in SQL right now, figuring out what data actually tells you (and what it doesn't)
+🎓 PCAP certified · IHK certified Manager for Applied AI Transformation
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 📂 Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**🔥 [Matchstick Nim Game](https://github.com/JaninaHruby/nim-game)** Started as a challenge from my husband, turned into a little Tkinter game with a computer opponent. 100% my own code.
 
-**Certified:**
-![PCAP](https://img.shields.io/badge/PCAP-Certified-brightgreen?style=for-the-badge&logo=python&logoColor=white)
-![KI-Transformation](https://img.shields.io/badge/IHK-KI--Transformation-blue?style=for-the-badge&logo=openai&logoColor=white)
-![Social Media](https://img.shields.io/badge/SMA-Social%20Media%20%26%20Content-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)
+**📊 [SaaS Release Impact Analysis](https://github.com/JaninaHruby/saas-analysis)** Built a synthetic SaaS dataset with Faker, explored it in Python, then moved to SQL in Databricks to figure out if a product release actually reduced support tickets. Spoiler: it did, but I also found something else interesting along the way. 👀
 
-Libraries I've worked with: `matplotlib` · `faker` · `random` · and counting...
+**🤖 [Learning OS](https://github.com/JaninaHruby/learning-os)** A Coursera tracker web app, because when you have too many courses, the only logical solution is to build yet another project. Full disclosure: This was an experiment to see how fast and how well AI can build something. There are definitely some logical issues, but honestly? It was a blast.
+
+---
 
 **Also dabbling in:**
 
@@ -42,11 +38,10 @@ Libraries I've worked with: `matplotlib` · `faker` · `random` · and counting.
 
 ---
 
-## 🎯 Currently learning (read: *all the things*)
+## 🎯 Currently learning
 
 - Data Analysis & Visualization
 - AI & Machine Learning fundamentals
-- PostgreSQL & database design
 - How to finish a Coursera course before starting three new ones *(work in progress)*
 
 ---
@@ -58,8 +53,8 @@ janina = {
     "personality":   "ENFP — yes, all the enthusiasm, all the time",
     "currently":     "Deciding between Data Analysis and Python Dev... why not both?",
     "superpower":    "Finding chaotic-but-genius solutions to boring problems",
-    "anime":         "Digimon is the best! 🦕 (fight me)",
     "hobbies":       ["Gaming 🎮", "Singing 🎤", "Watching Anime 📺"],
+    "anime":         "The Apothecary Diaries 🧪"
     "life_motto":    "Live your dream — even if your dream has 6 Coursera tabs open",
     "learning_style":"Collects knowledge like Pokémon — catch 'em all first, then breed the perfect Shiny with max IVs",
     "secret_weapon": "Certified Mindfulness & Relaxation Trainer 🧘‍♀️ — I can fix both your code AND your stress levels"
@@ -71,7 +66,7 @@ janina = {
 
 ## 📬 Let's connect!
 
-If you're also drowning in learning projects, love anime, or just want to talk about unconventional solutions — let's chat!
+If you're also drowning in learning projects, love anime, or just want to talk about unconventional solutions, let's chat!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janina-hruby)
