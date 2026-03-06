@@ -18,9 +18,9 @@ I'm currently doing a full-time training as a **Data Analyst & Python Developer*
 
 ## 📂 Projects
 
-**🔥 [Matchstick Nim Game](https://github.com/JaninaHruby/nim-game)** Started as a challenge from my husband, turned into a little Tkinter game with a computer opponent. 100% my own code.
+**🔥 [Matchstick Nim Game](https://github.com/JaninaHruby/python-nim-game)** Started as a challenge from my husband, turned into a little Tkinter game with a computer opponent. 100% my own code.
 
-**📊 [SaaS Release Impact Analysis](https://github.com/JaninaHruby/saas-analysis)** Built a synthetic SaaS dataset with Faker, explored it in Python, then moved to SQL in Databricks to figure out if a product release actually reduced support tickets. Spoiler: it did, but I also found something else interesting along the way. 👀
+**📊 [SaaS Release Impact Analysis](https://github.com/JaninaHruby/Download-Button-Audit)** Built a synthetic SaaS dataset with Faker, explored it in Python, then moved to SQL in Databricks to figure out if a product release actually reduced support tickets. Spoiler: it did, but I also found something else interesting along the way. 👀
 
 **🤖 [Learning OS](https://github.com/JaninaHruby/learning-os)** A Coursera tracker web app, because when you have too many courses, the only logical solution is to build yet another project. Full disclosure: This was an experiment to see how fast and how well AI can build something. There are definitely some logical issues, but honestly? It was a blast.
 
