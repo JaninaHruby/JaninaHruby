@@ -4,8 +4,6 @@
 
 I'm currently doing a full-time training as a **Data Analyst & Python Developer** and yes, I am somehow enrolled in 6+ Coursera courses at the same time. No regrets. (Okay, maybe a little.) I have a passion for finding unconventional solutions to everyday problems, and an unhealthy love for learning everything at once.
 
-🎯 **Currently looking for a Praxispartner (company partner) for a study program (Informatik / Applied AI / Data Science).** Know someone? [Let's connect!](https://linkedin.com/in/janina-hruby)
-
 ---
 
 ## 🚀 What I'm up to
