@@ -1,18 +1,7 @@
-# Hi, I'm Janina 👋✨
+<img width="1584" height="396" alt="Janina Hruby (2)" src="https://github.com/user-attachments/assets/c622a75a-ef9c-45c4-8f9f-15283c65942e" />
+<img width="1800" height="800" alt="Kein Titel (1800 x 800 px)" src="https://github.com/user-attachments/assets/e966b99e-41d7-43a4-bc19-77b94bb1ef3f" />
 
-> *Data Analyst in progress · Python Enthusiast · Chaotic Good Learner*
 
-I'm currently doing a full-time training as a **Data Analyst & Python Developer** and yes, I am somehow enrolled in 6+ Coursera courses at the same time. No regrets. (Okay, maybe a little.) I have a passion for finding unconventional solutions to everyday problems, and an unhealthy love for learning everything at once.
-
----
-
-## 🚀 What I'm up to
-
-📊 Full-time training in Data Analysis & Python Development
-🔬 Deep in SQL right now, figuring out what data actually tells you (and what it doesn't)
-🎓 PCAP certified · IHK certified Manager for Applied AI Transformation
-
----
 
 ## 📂 Projects
 
@@ -35,32 +24,6 @@ I'm currently doing a full-time training as a **Data Analyst & Python Developer*
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-
-## 🎯 Currently learning
-
-- Data Analysis & Visualization
-- AI & Machine Learning fundamentals
-- How to finish a Coursera course before starting three new ones *(work in progress)*
-
----
-
-## 🌸 A little bit about me
-
-```python
-janina = {
-    "personality":   "ENFP — yes, all the enthusiasm, all the time",
-    "currently":     "Deciding between Data Analysis and Python Dev... why not both?",
-    "superpower":    "Finding chaotic-but-genius solutions to boring problems",
-    "hobbies":       ["Gaming 🎮", "Singing 🎤", "Watching Anime 📺"],
-    "anime":         "The Apothecary Diaries 🧪"
-    "life_motto":    "Live your dream — even if your dream has 6 Coursera tabs open",
-    "learning_style":"Collects knowledge like Pokémon — catch 'em all first, then breed the perfect Shiny with max IVs",
-    "secret_weapon": "Certified Mindfulness & Relaxation Trainer 🧘‍♀️ — I can fix both your code AND your stress levels"
-}
-```
-
----
-
 
 ## 📬 Let's connect!
 
