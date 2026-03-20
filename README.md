@@ -1,5 +1,6 @@
 <img width="1584" height="396" alt="Janina Hruby (2)" src="https://github.com/user-attachments/assets/c622a75a-ef9c-45c4-8f9f-15283c65942e" />
-<img width="1584" height="600" alt="Kein Titel (1800 x 800 px)" src="https://github.com/user-attachments/assets/e966b99e-41d7-43a4-bc19-77b94bb1ef3f" />
+<img width="1584" height="704" alt="Kein Titel (1800 x 800 px)" src="https://github.com/user-attachments/assets/e966b99e-41d7-43a4-bc19-77b94bb1ef3f" />
+
 
 
 
