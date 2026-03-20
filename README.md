@@ -1,6 +1,6 @@
-<img width="1188" height="297" alt="Janina Hruby (2)" src="https://github.com/user-attachments/assets/c622a75a-ef9c-45c4-8f9f-15283c65942e" />
+<img width="800" height="200" alt="Janina Hruby Header" src="https://github.com/user-attachments/assets/739a70a6-55e0-48f7-90e8-af440946c178" />
+<img width="800" height="400" alt="Janina Infos" src="https://github.com/user-attachments/assets/fdce6770-3d2b-41de-874b-1418076abd80" />
 
-<img width="1350" height="600" alt="Kein Titel (1800 x 800 px) (5)" src="https://github.com/user-attachments/assets/6c713358-3f22-4f45-980c-d22c37b79ddf" />
 
 
 ## 📂 Projects
