@@ -1,5 +1,5 @@
 <img width="800" height="200" alt="Janina Hruby Header" src="https://github.com/user-attachments/assets/739a70a6-55e0-48f7-90e8-af440946c178" />
-<img width="800" height="400" alt="Janina Infos" src="https://github.com/user-attachments/assets/fdce6770-3d2b-41de-874b-1418076abd80" />
+<img width="800" height="400" alt="Janina Infos" src="https://github.com/user-attachments/assets/e0e9fac4-5bf5-4683-b456-b508fbe26507" />
 
 
 
